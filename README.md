@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src=""https://media.tenor.com/e5ndXMOWFFkAAAAd/fail-failure.gif"">
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=45beepy" alt="45beepy" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/e5ndXMOWFFkAAAAd/fail-failure.gif">
 
 <p align="left"> <a href="https://twitter.com/45beepyy" target="blank"><img src="https://img.shields.io/twitter/follow/45beepyy?logo=twitter&style=for-the-badge" alt="45beepyy" /></a> </p>
 
