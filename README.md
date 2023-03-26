@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pravin</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/O4q4Z88VuiQ3cXS5fE/giphy.gif?cid=ecf05e47dbd0277c02694a4dd58572afafee0ff386feb172&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src=""C:\Users\pravi\Downloads\and-you-didn't-select-me-because-i'm-good-at-coding.mp4"">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=45beepy" alt="45beepy" /></a> </p>
